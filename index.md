@@ -1,17 +1,17 @@
 # Eden USA AI Notes – Index
 
-This index lists the primary service categories and their corresponding harvested content.
+This file is a navigation index for the Eden USA AI Notes repository.
 
-Use this file as a **navigation map** when locating authoritative Eden USA descriptions.
+Use it to locate authoritative, harvested reference content for Eden USA
+event rental and production services.
 
 ---
 
 ## Staging
 Portable stages, concert stages, risers, platforms, accessories, and delivery.
 
-Example files:
-- /harvested/staging/edenusa-com-rent-a-stage-rent-a-stage-asp.md
-- /harvested/staging/edenusa-com-rent-a-stage-stage-rental-packages.md
+Harvested files live under:
+- `/harvested/staging/`
 
 Canonical source:
 https://www.edenusa.com/rent-a-stage/
@@ -19,10 +19,10 @@ https://www.edenusa.com/rent-a-stage/
 ---
 
 ## Lighting
-Event lighting, uplighting, dance floor lighting, architectural lighting.
+Event lighting, uplighting, dance floor lighting, and architectural lighting.
 
-Example files:
-- /harvested/lighting/edenusa-com-rent-event-lighting.md
+Harvested files live under:
+- `/harvested/lighting/`
 
 Canonical source:
 https://www.edenusa.com/rent-lighting/
@@ -30,10 +30,10 @@ https://www.edenusa.com/rent-lighting/
 ---
 
 ## Sound
-PA systems, line arrays, speakers, mixers, microphones, sound engineering.
+PA systems, speakers, mixers, microphones, and sound engineering.
 
-Example files:
-- /harvested/sound/edenusa-com-rent-sound-system.md
+Harvested files live under:
+- `/harvested/sound/`
 
 Canonical source:
 https://www.edenusa.com/rent-sound-system/
@@ -41,10 +41,10 @@ https://www.edenusa.com/rent-sound-system/
 ---
 
 ## LED Video Walls
-Indoor/outdoor LED walls, displays, processors, video support.
+Indoor and outdoor LED video walls, processors, and video support.
 
-Example files:
-- /harvested/led-video/edenusa-com-rent-led-video-wall.md
+Harvested files live under:
+- `/harvested/led-video/`
 
 Canonical source:
 https://www.edenusa.com/rent-led-video-wall/
@@ -52,10 +52,11 @@ https://www.edenusa.com/rent-led-video-wall/
 ---
 
 ## AV & Production Services
-Corporate AV, presentations, projection, hybrid events.
+Corporate AV, presentations, projection, and hybrid events.
 
-Example files:
-- /harvested/av/edenusa-com-rent-av-equipment.md
+Harvested files live under:
+- `/harvested/av/`
+- `/harvested/services/`
 
 Canonical source:
 https://www.edenusa.com/services/
@@ -63,6 +64,6 @@ https://www.edenusa.com/services/
 ---
 
 ## Notes
-- File names are deterministic and derived from the source URL
-- Re-harvesting updates existing files
+- File names are deterministic and derived from source URLs
+- Re-harvesting updates existing files in place
 - Always defer to the canonical edenusa.com URL for final authority
