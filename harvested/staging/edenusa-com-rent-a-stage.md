@@ -1,7 +1,7 @@
 ﻿# Eden USA – Service Reference
 
 **Source URL:**
-https://www.edenusa.com/rent-a-stage
+https://www.edenusa.com/rent-a-stage/
 
 **Service Category:**
 staging
