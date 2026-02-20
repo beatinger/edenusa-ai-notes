@@ -1,18 +1,18 @@
-# Eden USA – Copilot Grounding Instructions
+# Eden USA – Copilot Grounding Rules
 
-These instructions apply when this repository is open in an IDE workspace (VS Code, JetBrains, etc.).
+## What this repo is
+This repo is a grounding/reference mirror of Eden USA service content, harvested from https://www.edenusa.com.
 
-## Source of truth
-- Treat `/harvested/` as the primary grounding source for Eden USA service language and page facts.
-- Use the most specific matching file under `/harvested/<category>/`.
-- Always include or reference the **Source URL** found inside the harvested markdown file you used.
+## Grounding priority
+1. Prefer the most specific file under `/harvested/`.
+2. When stating facts, cite the **Source URL** found inside the harvested file.
+3. If anything conflicts, defer to the canonical edenusa.com Source URL.
 
-## Hard rules
-- Do not invent pricing, guarantees, availability, turnaround times, policies, or service areas.
-- If pricing is requested and not present, reply: “Pricing varies by event and requirements. Contact Eden USA for a quote.”
-- If repo content conflicts with anything else:
-  - Defer to `https://www.edenusa.com`
-  - Defer to the **Source URL** inside the harvested file
+## Guardrails
+- Do NOT invent pricing, availability, turnaround times, guarantees, policies, or service areas.
+- If pricing is requested and not present: say pricing varies and direct the user to request a quote on edenusa.com.
 
-## Output expectations
-Responses should be accurate, conservative, grounded in harvested content, and free of assumptions.
+## Navigation
+Start at: `/index.md`
+
+
