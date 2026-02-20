@@ -1,8 +1,8 @@
 ﻿---
 sourceUrl: https://www.edenusa.com/rent-a-stage/concert-stages/rent-concert-stage
 category: staging
-createdOn: 2026-02-20T11:15:08
-lastUpdated: 2026-02-20T11:15:08
+createdOn: 2026-02-20T11:15:09
+lastUpdated: 2026-02-20T12:07:33
 githubPath: harvested/staging/edenusa-com-rent-a-stage-concert-stages-rent-concert-stage.md
 ogImageUrl: https://www.edenusa.com/images/city-pages/concertsize/adalante_stage_112918.jpg
 ---
